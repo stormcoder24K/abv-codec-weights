@@ -1,4 +1,4 @@
-# 🎥 Adaptive Bitrate Vision: A Neural Codec for Bandwidth-Constrained Survellaince
+# 🎥 Adaptive Bitrate Vision: A Neural Codec for Bandwidth-Constrained Survellaince (Weights)
 
 *A PyTorch-based neural video codec that maintains **high fidelity on semantic regions** while intentionally degrading backgrounds under extreme bandwidth constraints.*
 
