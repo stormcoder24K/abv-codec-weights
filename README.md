@@ -1,4 +1,4 @@
-# 🎥 ABVCodec: Semantic-Aware Neural Video Codec with PSNR-Targeted Graceful Degradation
+# 🎥 Adaptive Bitrate Vision: A Neural Codec for Bandwidth-Constrained Survellaince
 
 *A PyTorch-based neural video codec that maintains **high fidelity on semantic regions** while intentionally degrading backgrounds under extreme bandwidth constraints.*
 
