@@ -303,10 +303,10 @@ total_loss = (
 
 ---
 
-## 🧑‍💻 Author
+## 🧑‍💻 Authors
 
-**Aarush**  
-AI/ML Engineer (CSE — AI & ML)  
+**Aarush, Keerthana, Amulya**  
+AI/ML Engineers (CSE — AI & ML)  
 Specializing in model engineering, neural compression, and efficient deep learning systems
 
 ---
